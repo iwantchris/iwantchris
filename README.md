@@ -21,8 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantchris&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwantchris&show_icons=true&theme=dark&locale=en&layout=compact" alt="iwantchris" /></p>
+<p><img align="left" src="https://readme-iwantchris-projects.vercel.app/api/top-langs?username=iwantchris&show_icons=true&theme=dark&locale=en&layout=compact" alt="iwantchris" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwantchris&show_icons=true&theme=ambient_gradient&locale=en" alt="iwantchris" /></p>
+<p>&nbsp;<img align="center" src="https://readme-nu-wheat.vercel.app/api?username=iwantchris&show_icons=true&theme=ambient_gradient&locale=en" alt="iwantchris" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwantchris&theme=ambient_gradient" alt="iwantchris" /></p>
