@@ -27,11 +27,9 @@
 
 <details>
   <summary>⚡ Github Stats ⚡</summary>
-
-  
+  <!-- Edit Comment -->
   <img align="left" alt="iwantchris's Github Stats" src="https://github-readme-stats-mu-gold-15.vercel.app/api?username=iwantchris&show_icons=true&theme=ambient_gradient&locale=en"/>
+  <!-- Edit Comment -->
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iwantchris&theme=ambient_gradient" alt="iwantchris" /></p>
 </details>
 
-<!-- <p>&nbsp;<img align="center" src="https://readme-nu-wheat.vercel.app/api?username=iwantchris&show_icons=true&theme=ambient_gradient&locale=en" alt="iwantchris" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwantchris&theme=ambient_gradient" alt="iwantchris" /></p>
